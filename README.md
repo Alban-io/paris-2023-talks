@@ -201,7 +201,7 @@ L'initiative Symfony UX a grandement simplifié la façon de construire la parti
 Mais est-ce encore vraiment nécessaire ? Les navigateurs ont récemment gagné des fonctionnalités permettant de se passer de la plupart d'entre elles. Voyons comment se débarrasser de cette complexité en utilisant la plateforme web !</dd>
 </dl>
 
-~~Slides~~  
+~~Slides  
 ~~Video~~  
 [Symfony's Pull Request](https://github.com/symfony/symfony/pull/48371)
 
@@ -223,7 +223,7 @@ En mettant en pratique la documentation, on se retrouve confronté à des questi
 Cette conférence est le résumé de plus de 10 ans de pratique de tests automatisés avec Symfony.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/alexandresalome/les-tests-dans-une-application-symfony)  
 ~~Video~~
 
 By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)  
